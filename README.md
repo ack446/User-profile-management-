@@ -168,7 +168,7 @@ Email: student@student.com
 Password: student
 
 
-## Project's Journey
+## Project Overview
 - [x] Admin/Staff/Student Login
 - [x] Add and Edit Course
 - [x] Add and Edit Staff
